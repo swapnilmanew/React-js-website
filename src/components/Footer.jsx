@@ -7,7 +7,7 @@ const Footer = (props) => {
         <div className="row">
           <div className="col-12 text-center m-auto">
             <p className="fs-5">Copyright - 2021</p>
-            <p className="fs-5">Designed and Developed by Swapnil Mane.</p>
+            <p className="fs-5">Designed and Developed by Shinichi Izumi.</p>
           </div>
         </div>
       </div>

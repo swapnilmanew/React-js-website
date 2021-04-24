@@ -1,5 +1,5 @@
 import React from "react";
-import web from "../img/about.svg";
+import web from "../img/services/web.svg";
 import dm from "../img/services/dm.svg";
 import seo from "../img/services/seo.svg";
 

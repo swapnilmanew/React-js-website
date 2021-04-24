@@ -28,12 +28,12 @@ const Nav = () => {
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" exact to="/about">
-                  About Us
+                  About
                 </NavLink>
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" exact to="/contact">
-                  Contact Us
+                  Contact 
                 </NavLink>
               </li>
             </ul>

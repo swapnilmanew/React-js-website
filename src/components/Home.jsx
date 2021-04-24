@@ -14,7 +14,7 @@ const Home = () => {
     <>
       <ComLanding
         img={img}
-        title={"Welcome to BizPage"}
+        title={"React Js"}
         text={
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa facilis nobis accusamus accusantium voluptatem aperiam provident esse quas odio eum."
         }
